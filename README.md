@@ -14,11 +14,14 @@ Xiao Song 宋骁
 [M5 Forecasting – Uncertainty](https://www.kaggle.com/c/m5-forecasting-uncertainty) – Top 18th rank 2% (solo silver medal)  
 
 
-[Baseline分享](https://mp.weixin.qq.com/s/E9vJwE5Vpa-TFrjeLyBT_A)
+[Kaggle M5沃尔玛时间序列预测竞赛Baseline分享](https://mp.weixin.qq.com/s/E9vJwE5Vpa-TFrjeLyBT_A)   
+[Kaggle M5 沃尔玛销量时间序列预测 竞赛总结](https://mp.weixin.qq.com/s/3JHWeYbh2uhqjw7IJoeOiQ)
 
 ## Summary
 
 ### Accuracy-Competition
+
++ FE: adding a `weekends` feature.
 
 + I used 4 single models:
     
@@ -30,7 +33,7 @@ Xiao Song 宋骁
     
     + rolling prediction
 
-+ Then I calculate all prediction's mean value, the I recode very tiny prediction to 0. Finally, I multiply a constant close to 1.
++ Then I calculate all prediction's mean value, the I recode very tiny prediction to 0. Finally, I use a magic multiplier close to 1.
 
 ### Uncertainty-Competition
 
