@@ -2,14 +2,19 @@
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-purple.svg)](https://opensource.org/licenses/MIT)
 
-Xiao Song
+Kaggle M5沃尔玛销量时间序列预测竞赛 银牌方案(Top 2%) 
+
+Xiao Song 宋骁
 
 <https://xsong.ltd/en>     
 [Kaggle profile](https://www.kaggle.com/rikdifos/)
 
 
 [M5 Forecasting – Accuracy](https://www.kaggle.com/c/m5-forecasting-accuracy) – Top 103rd rank 2% (solo silver medal)   
-[M5 Forecasting – Uncertainty](https://www.kaggle.com/c/m5-forecasting-uncertainty) – Top 18th rank 2% (solo silver medal)
+[M5 Forecasting – Uncertainty](https://www.kaggle.com/c/m5-forecasting-uncertainty) – Top 18th rank 2% (solo silver medal)  
+
+
+[Baseline分享](https://mp.weixin.qq.com/s/E9vJwE5Vpa-TFrjeLyBT_A)
 
 ## Summary
 
