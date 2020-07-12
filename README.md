@@ -27,7 +27,7 @@ Xiao Song 宋骁
     
     + time series split 3 fold cv - rmse loss function
     
-    + time series split 3 fold cv - poisson loss function
+    + [time series split 3 fold cv - poisson loss function](https://www.kaggle.com/rikdifos/timeseriessplit-cv-poisson)
     
     + time series split 3 fold cv - self-defined loss function
     
