@@ -6,7 +6,7 @@ Kaggle M5沃尔玛销量时间序列预测竞赛 银牌方案(Top 2%)
 
 Xiao Song 宋骁
 
-<https://xsong.ltd/en>     
+<https://xsong.ltd/>     
 [Kaggle profile](https://www.kaggle.com/rikdifos/)
 
 
